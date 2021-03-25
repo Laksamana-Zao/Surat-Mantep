@@ -6,8 +6,8 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000Dear&nbsp;&nbsp;Etha", 
-				"Seiring dengan bertambahnya usia, semoga semakin disayang Allah Swt, segala urusannya dipermudah, pahalanya terus ditambah, dan disayang sama keluarga, selamat ulang tahun, Ethaaaa. Tetap jadi Etha yang baik, Etha yang lucu, Etha yang Cute, Etha yang penuh senyuman, harus berani, jangan malu malu terus yaaa...,    Maaf kalo alay hahahah, Love you.."],
+			strings: ["^1000Dear&nbsp;&nbsp;Mantap", 
+				"Uvuwuvewu onyetwewwowo ughwm ughwim ossas"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
