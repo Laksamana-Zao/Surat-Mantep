@@ -6,8 +6,8 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000Dear&nbsp;&nbsp;Mantap", 
-				"Uvuwuvewu onyetwewwowo ughwm ughwim ossas"],
+			strings: ["^1000Dear&nbsp;&nbsp;Melly", 
+				"Do you miss me mey? wkowkowk keren nih, tapi masih belajar, proses, haaaaa i miss you mey, apa meyi dah punya yang baru? jikalau udah, yaaa aya harus gmna, tapi i love you mey :D"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
